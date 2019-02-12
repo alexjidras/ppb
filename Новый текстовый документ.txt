@@ -1,0 +1,1 @@
+mysql -u b3f3090733d29c -h us-cdbr-iron-east-03.cleardb.net -p heroku_038b963e99c421a < bd.sql

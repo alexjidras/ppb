@@ -1,0 +1,89 @@
+label {
+            margin-right: 10px;
+            font-size: 16px;
+        }
+input {
+    margin-right: 10px;
+    padding: 4px;
+
+}
+select {
+    margin-right: 10px;
+    padding: 3px;
+    font-size: 14px;
+}
+br {
+    line-height: 2;
+}
+#succes {
+    margin-bottom: 12px;
+    color: green;
+}
+#fail {
+    color: red;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+}
+
+input:focus {
+    outline: 0;
+
+}
+
+button {
+    font-size: 14px;
+    border:0;outline:0;letter-spacing:normal;word-spacing:normal;text-transform:none;text-indent:0px;text-rendering:auto;text-align:center;background:#bdbdbd;
+    color: #fff;
+    font-family: inherit;
+    /*border: 1px solid #999;*/
+    padding: 4px 15px;
+    /*border-radius: 4px;*/
+    /*background-color: #7998a6 !important;*/
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+
+td,th {
+    border: 1px solid #999;
+     padding: 10px;
+  text-align: left;
+}
+
+.afisare-main {
+    text-align: center;
+}
+
+    
+div.success {
+    font-size: 16px;
+    text-align: center;
+    padding: 16px;
+    margin-bottom: 20px;
+    transition: margin-top 0.3s linear;
+    color: #fbfbfb;
+    background-color: #92D2FF;
+    border-color: #d6e9c6;
+
+    padding-right: 35px;
+
+    
+}
+
+#root {
+    margin-left:15px;
+    margin-right: 25px;
+
+}
+
+.logout {
+    float:right;
+    /*text-transform: uppercase;*/
+    text-decoration: none;
+}
