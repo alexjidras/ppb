@@ -7,10 +7,10 @@ require_once('authenticated.php');
 <html>
     <head>
         <title>Panou Administrator</title>
-        <link rel="shortcut icon" type="image/png" href="../static/img/favicon.png"/>
-        <link href="../static/css/fonts.css" rel="stylesheet">
-        <script src="../static/js/jquery-3.2.1.min.js"></script>
-        <script type="text/javascript" src="../static/js/admin.js"></script>  
-        <link rel="stylesheet" href="../static/css/admin.css">
+        <link rel="shortcut icon" type="image/png" href="../assets/img/favicon.png"/>
+        <link href="../assets/css/fonts.css" rel="stylesheet">
+        <script src="../assets/js/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="../assets/js/admin.js"></script>  
+        <link rel="stylesheet" href="../assets/css/admin.css">
     </head>
     <body>
