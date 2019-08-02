@@ -17,9 +17,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html>
     <head>
         <title>Login</title>
-        <link rel="shortcut icon" type="image/png" href="../frontend/img/favicon.png"/>
-        <link href="../frontend/css/fonts.css" rel="stylesheet">         
-        <link rel="stylesheet" href="../frontend/css/login.css">
+        <link rel="shortcut icon" type="image/png" href="../assets/img/favicon.png"/>
+        <link href="../assets/css/fonts.css" rel="stylesheet">         
+        <link rel="stylesheet" href="../assets/css/login.css">
     </head>
     <body>
     <header></header>

@@ -14,11 +14,11 @@ include 'header.php';
 		    		<p class="chart-subtitle"><select id="c1mon"></select><select id="c1an"></select></p>
 		    	</div>
 	            <div id="chart1_1">
-	            	<img class="fuelmaximg" src="frontend/img/fuelmax.jpg">
+	            	<img class="fuelmaximg" src="assets/img/fuelmax.jpg">
 	            	<span id="fuelmaxval"></span>
 				</div>
 				<div id="chart1_2">
-					<img class="stationimg" src="frontend/img/station2.png">
+					<img class="stationimg" src="assets/img/station2.png">
 	            	<span id="stationval"></span>
 				</div>	
 				<div id="chart1">
